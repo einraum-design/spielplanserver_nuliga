@@ -1,0 +1,19 @@
+{
+  "name": "spielplanserver",
+  "version": "1.0.0",
+  "description": "nuliga spielplan grabber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Michel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "moment": "^2.24.0",
+    "node-html-parser": "^1.2.9",
+    "util": "^0.12.2"
+  }
+}
